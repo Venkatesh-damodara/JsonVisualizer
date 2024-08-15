@@ -1,4 +1,5 @@
 Summary
+
 Thank you for your interest in working for us. To assess your skills for the position you are applying for we
 have created a simple technical assignment. This assignment can be solved offline, in your own time. Once
 you have completed the assignment, please take a screen grab of your solution, and email it to us. Based
